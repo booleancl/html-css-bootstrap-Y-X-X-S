@@ -88,3 +88,17 @@ Los links son el corazòn de internet y los crearemos frecuentemente. Se compone
  ### Imagenes
 
  Las imàgenes son una 
+
+
+
+
+
+
+
+
+
+
+
+ ## CSS
+
+ Hojas de estilo en cascada(cascade syle sheets) CSS nos perimte entregar al sitio el aspecto que queremos. Lo hace aplicando
