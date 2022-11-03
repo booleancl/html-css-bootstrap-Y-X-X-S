@@ -1,0 +1,42 @@
+/* Comment */
+body{
+  background-color: rgb(146, 25, 146);
+  font-size: 12px;
+}
+
+@media only screen and (max-width: 600px){
+  body{
+    background-color: deeppink;
+  }
+}
+
+h2, h3{
+  font-size: 50px;
+  color: coral;
+  text-align: center;
+}
+
+#submit{
+  background-color: burlywood;
+}
+
+.form_input{
+  border-radius: 6px;
+  border-color: blueviolet;
+}
+
+p.centered {
+  text-align: center;
+  color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+

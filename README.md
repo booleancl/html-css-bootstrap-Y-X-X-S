@@ -102,3 +102,39 @@ Los links son el corazòn de internet y los crearemos frecuentemente. Se compone
  ## CSS
 
  Hojas de estilo en cascada(cascade syle sheets) CSS nos perimte entregar al sitio el aspecto que queremos. Lo hace aplicando
+
+
+
+
+
+
+
+
+
+
+
+
+ ## Unidades de medida
+
+ En general, no solo en desarrollo, podemos clasificar las unidades de medida en dos grupos:
+
+ -Unidades absolutas: px 
+ - Unidades Relativas: %, rem,em,vh,vw
+
+ ### rem 
+ Es una unidad de medida relativa al font-size del elemento raiz.
+
+ ### em 
+ Es relativa al font-size del mismo elemento
+
+ #### vh
+ Es relativo al 1% del alto de la pantalla (viewport)
+
+ #### vw 
+ Es relativo al 1% del ancho de la pantalla o viewport
+
+ ### Tipos de diseño 
+
+ - El diseño estaticos: Sirve para un solo tamaño de pantalla.
+ -El diseño fluido: Se
+
